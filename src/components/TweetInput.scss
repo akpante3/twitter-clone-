@@ -1,0 +1,24 @@
+.tweet-input {
+    @apply w-full flex;
+    padding: 16px;
+    &__profile-image {
+    }
+    &__profile-wrapper  {
+        @apply mr-3 rounded-full overflow-hidden;
+        width: 70px;
+        height: 65px; 
+    }
+    &__icon-wrapper {
+        @apply flex w-full justify-between items-center;
+        max-width: 150px;
+    }
+    &__input {
+        color: white;
+        width: 100%;
+        height: 50px;
+        font-size: 24px;
+        background: transparent;
+        border: none;
+        font-weight: 600;
+    }
+}

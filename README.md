@@ -1,6 +1,10 @@
 # Twitter Clone
 cloning my fav app for fun 🙂
-## Available Scripts
+## Tech
+- Tailwind 
+- React
+
+## stories and managment here 📃: https://www.pivotaltracker.com/n/projects/2609807
 
 In the project directory, you can run:
 
